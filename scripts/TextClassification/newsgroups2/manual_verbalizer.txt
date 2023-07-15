@@ -1,0 +1,2 @@
+computer,calculatormachine,computing,programmer,peripheral,hardware,mainframe,microprocessor,laptop,code,server,programming,memory,abacus,electronics,astrolabe,cpu,information,internet,pc,slide,computation
+science,mathematics,biology,scientist,astronomy,physics,knowledge,chemistry,geology,psychology,research,medicine,observation,experiment,theory,technology,math,scientific,neuroscience,sociology,empirical,anthropology,engineering,humanities,maths,metrology,biotechnology,architectonics,systematics,philosophy,agrobiology,study,agronomy

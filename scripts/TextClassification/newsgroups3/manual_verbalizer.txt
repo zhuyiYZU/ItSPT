@@ -1,0 +1,2 @@
+computer,calculatormachine,computing,programmer,peripheral,hardware,mainframe,microprocessor,laptop,code,server,programming,memory,abacus,electronics,astrolabe,cpu,information,internet,pc,slide,computation
+talk,babble,verbalize,speak,discourse,lecture,communicate,chatter,intercommunicate,sing,tattle,verbalise,yack,gossip,conversation,peach,speech,converse,tell,say,chat,spill,talking,rant,shmooze,spiel,monologuize,prate,maunder,tone,cackle,orate,yak,dialogue,pontificate,stutter,whisper,dialog,discussion

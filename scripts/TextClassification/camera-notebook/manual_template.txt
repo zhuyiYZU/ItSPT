@@ -1,0 +1,4 @@
+一种{"mask"}态度: {"placeholder": "text_a"}
+{"placeholder": "text_a"} 这条评论的态度是{"mask"}.
+{"placeholder": "text_a"} 这条评论是{"mask"}.
+{"placeholder": "text_a"} 一种{"mask"}态度.
